@@ -1,0 +1,181 @@
+2021-12-14 14:10:13: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-12-14 14:10:13: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-12-14 14:10:19: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-12-14 14:15:03: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-12-14 14:15:29: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2021-12-14 14:15:30: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:06:49: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:06:50: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:06:51: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:07:37: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:10:22: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:11:28: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:11:30: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:11:31: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:11:31: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:13:28: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:13:29: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:13:31: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, resource given in <b>W:\domains\BestPrint\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>W:\domains\BestPrint\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2022-01-16 15:15:02: empty string!!!2022-01-16 15:15:48: empty string!!!2022-01-16 15:16:21: empty string!!!2022-01-16 15:16:21: empty string!!!2022-01-16 15:16:22: empty string!!!2022-01-16 15:16:22: empty string!!!2022-01-16 15:16:22: empty string!!!2022-01-16 15:16:50: empty string!!!2022-01-16 15:16:51: empty string!!!2022-01-16 15:16:51: empty string!!!2022-01-16 15:16:51: empty string!!!2022-01-16 15:16:52: empty string!!!2022-01-16 15:16:52: empty string!!!2022-01-16 15:17:01: empty string!!!2022-01-16 15:17:26: empty string!!!2022-01-16 15:17:27: empty string!!!2022-01-16 15:17:28: empty string!!!2022-01-16 15:17:28: empty string!!!2022-01-16 15:17:28: empty string!!!2022-01-16 15:17:28: empty string!!!2022-01-16 15:19:20: empty string!!!2022-01-16 15:22:07: empty string!!!

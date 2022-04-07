@@ -1,0 +1,49 @@
+.form-select:valid{
+    width: 200px;
+    text-align: center;
+    border-color: green;
+}
+.name{
+    width: 600px;
+    text-align: left;
+}
+.form-control{
+    width: 400px;
+    text-align: center;
+}
+.input-group{
+    width: 400px;
+}
+input{
+    width: 400px;
+}
+
+input:invalid {
+    border-color: red;
+}
+input:valid {
+    border-color: green;
+}
+.success{
+    text-align: center;
+}
+textarea:valid{
+    border-color: green;
+}
+textarea:invalid{
+    border-color: red;
+}
+.size{
+    width: 600px;
+}
+.form{
+    width: 650px;
+}
+table{
+    width: 600px;
+    height: 50px;
+    text-align: center;
+}
+.btn-primary{
+    width: 50px;
+}
