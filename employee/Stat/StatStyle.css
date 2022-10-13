@@ -1,0 +1,23 @@
+.container{
+    width: 600px;
+}
+.print{
+    width: 800px;
+    text-align: right;
+}
+input:invalid {
+    border-color: red;
+}
+input:valid {
+    border-color: green;
+}
+
+.table{
+    width: 1300px;
+    height: 50px;
+    text-align: center;
+}
+.time{
+    text-align: center;
+    width: 180px;
+}
